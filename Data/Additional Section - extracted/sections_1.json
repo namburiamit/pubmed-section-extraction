@@ -1,0 +1,502 @@
+[
+  {
+    "PMCID": "PMC11001960",
+    "Year": "April 2024",
+    "Section": "The analysis plan was not formally pre-registered, but the lead author certifies that the analysis plan was pre-specified. The study was planned as an initial feasibility pilot study. As such, a formal power analysis was not performed at the outset of the investigation. Twenty-one subjects were recruited for the study, and data were successfully analyzed in 18 subjects. Participants were told the results of clinically significant or potentially clinically significant imaging findings after the final clinical observations had been made. Imaging acquisition and analyses were performed by team members blinded to relevant characteristics of the participants, and clinical outcomes were assessed by team members blinded to imaging results. MRI data were acquired using a Siemens Prisma 3T scanner, software version VE11C. All MRI data were acquired on the same scanner. All equipment and software used to perform imaging and pre-processing are widely available from commercial sources. The key inclusion criteria and outcome evaluations are established standards.\n\nNeuroimaging processing and statistical analyses were performed by Brian B. Avants and Nicholas J. Tustison using the open-source ANTsR package, of which they are the founders and principal developers. Corrections for multiple comparisons were performed using false discovery rate available in the R statistical package. No replication or external validation studies have been performed or are planned/ongoing at this time to our knowledge. Analytic code used to conduct the analyses are available in (GitHub)."
+  },
+  {
+    "PMCID": "PMC10902500",
+    "Year": "March 2024",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC11005382",
+    "Year": "April 2024",
+    "Section": "All experimental procedures were approved by the University of Florida Institutional Animal Care and Use Committee. The study was conducted and data are reported in accordance with the ARRIVE guidelines.30F0 male rats were randomized into two treatment groups using a random number generator. F0 na\u00efve female rats were used as breeders only to generate offspring (generation F1). Sample size calculations were done, assuming a range of anticipated differences in mean outcomes and standard deviation based on background data and past experience with similar measurements in Sprague-Dawley rats.27The primary outcomes of this study were intergenerational neuroendocrine and behavioral effects of paternal traumatic brain injury (TBI); all other outcomes were secondary outcomes. Inclusion and exclusion criteria: the animals were of the same age and a similar weight and have similar baseline behavioral outcomes. Exclusion criteria include immediate post-procedural issues, or any pathophysiological conditions developed later. Animals excluded from the study are reported in the manuscript. A cohort of 18 breeding pairs of F0 rats was used to produce F1 offspring for a given experimental group (18 F1 rats/group/sex). A given F1 offspring experimental group included 1 to 2 rats from a given F0 litter. In all experiments, control and treatment groups were tested using the same experimental conditions (e.g., O2/air mixture in the animal cage during the procedures, time of day). This study investigated both male and female offspring to elucidate sex-specific intergenerational effects of paternal TBI. Data analyses included experimental group (treatment) and sex as the main effects and experimental group (treatment)\u2009\u00d7\u2009sex interactions."
+  },
+  {
+    "PMCID": "PMC11005384",
+    "Year": "April 2024",
+    "Section": "This study was not formally registered because it is not a clinical trial. The analysis plan was not formally pre-registered, but the team member with primary responsibility for the analysis (lead author) certifies that the analysis plan was pre-specified. Sample size was 21 healthy controls, 52 mTBI, and 17 msTBI subjects, and the observed effect sizes were moderate. Ninety-eight participants were enrolled in MRI portion of the study and had images collected. Ninety participants had images that passed systematic quality assessments and were analyzed. Imaging quality control decisions and analyses were performed by investigators who were aware of relevant characteristics of the participants. Imaging data were acquired between February 2018 and May 2022 between 12-2p.m.Imaging data were collecting using a Philips Ingenia 3T MRI running software R5.3.1 with a 16-channel matrix head coil. All imaging was collected using the same scanner. The time required for image acquisition was 48\u2009min. Complete imaging parameters are presented in the methods. All equipment and software used to perform acquisition and analysis are widely available from Philips and FSL. The key inclusion criteria (TBI diagnostic criteria) are established standards in the field. Correction for multiple comparisons was performed within FSL as described in the methods. No replication or external validation studies have been performed or are planned/ongoing at this time to our knowledge. De-identified data from this study are not available in a public archive. De-identified data from this study will be made available (as allowable according to institutional IRB standards) by emailing the corresponding author. Analytic code used to conduct the analyses presented in this study are not available in a public repository. They may be available by emailing the corresponding author. The authors agree to provide the full content of the manuscript on request by contacting the corresponding author."
+  },
+  {
+    "PMCID": "PMC11005383",
+    "Year": "April 2024",
+    "Section": "The CENTER-TBI study was pre-registered atclinicaltrials.gov(NCT02210221,https://clinicaltrials.gov/ct2/show/NCT02210221). The analysis plan was registered after beginning data collection but before data analysis athttps://www.center-tbi.eu/data/approved-proposals(#491), and the lead author with primary responsibility for the analysis certifies that the analysis plan was pre-specified. A sample size of 903 patients was planned based on availability of critically ill, ICP-monitored, adult TBI patients recruited for CENTER-TBI. Actual sample size was 873, as 18 patients had a documented decision to WLST on the first day of ICU stay and 12 additional patients did not have daily TIL scores assessed. A patient inclusion diagram is provided (Fig. 1). TIL scoring and clinical data entry was performed by investigators who were aware of relevant characteristics of the participants. Participants were recruited between December 19, 2014, and December 17, 2017, and data (including follow-up results) were collected until March 31, 2021. High-resolution waveforms were stored directly from bedside monitoring software, as described in the \u201cMethods\u201d section. Variability amongst different TIL assessors is not expected to be significant based on the established high inter-rater reliability of TIL.9All equipment and software used to perform imaging and preprocessing are widely available from commercial sources or open source repositories. The clinimetric validation procedure and the primary clinical metric (TIL) are established standards in the field, based on previously published results9,28and this study. The assumption of bootstrapping-derived confidence intervals is that the sample is representative of the population. This study is, itself, an external validation, and internal replication by the study group was performed. Individual participant data are available online, conditional to approved online study proposal, with no end date athttps://www.center-tbi.eu/data. Signed confirmation of a data access agreement is required, and all access must comply with regulatory restrictions imposed on the original study. All analytic code used to perform the statistical analyses are publicly available online athttps://github.com/sbhattacharyay/CENTER-TBI_TIL. This paper will be published under a Creative Commons Open Access license, and upon publication, will be freely available athttps://www.liebertpub.com/loi/neu."
+  },
+  {
+    "PMCID": "PMC10902499",
+    "Year": "March 2024",
+    "Section": "Because of its retrospective nature, the study was not pre-registered. The analysis plan was not formally pre-registered. The sample size was derived based on the number of patients treated at the participating hospitals during the time frame. The key inclusion criteria are established standards in the field. A total of 1869 patients were screened, out of whom 798 were included. Volume measurements were performed by investigators who were aware of relevant characteristics of the participants. All data sets were analyzed at the same time. The data sets used and/or analyzed during the current study are available from the corresponding author on reasonable request. The authors agree to provide the full content of the manuscript on request by contacting the corresponding author."
+  },
+  {
+    "PMCID": "PMC10698778",
+    "Year": "December 2023",
+    "Section": "A prioripower analyses (1-\u03b2\u2009=\u20090.80; \u03b1\u2009=\u20090.05) were performed to determine the number of mice needed in each experiment. Groups of 10 mice are sufficient to detect differences (p<\u20090.05) between groups in locomotor recovery and tissue pathology using repeated measures ANOVA with post hoc comparisons. To account for attrition a total of 32 mice were injured (16 in each group). Of the 32 mice that were originally injured, 1 died during surgery, 5 were excluded for technical reasons, 1 was excluded for poor incision healing, and 1 was euthanized 1 day after SCI. Of the 8 mice that were excluded in behavioral analysis 4 were in the vehicle group and 4 were in the ethanol group. During analysis of tissue pathology, the first block of tissue was excluded due to poor tissue sectioning. This excluded 2 mice that were already excluded for technical reasons and 3 additional animals (2 in the vehicle group and 1 in the ethanol group). Ethanol administration occurred \u223c40\u2009min prior to SCI to achieve stable PECs at the time of injury. After baseline behavior was collected, all mice were randomized to either ethanol or vehicle using a random number generator. BMS scoring, Catwalk XT gait analysis testing, and Hargreaves heat sensitivity testing were all performed by observers blinded to the treatment group. Data from this study will be available in a FAIR data repository; contact a corresponding author for access information."
+  },
+  {
+    "PMCID": "PMC11071085",
+    "Year": "January 2024",
+    "Section": "This is a protocol for a pathophysiological mechanistic study. This study was not formally registered because it is not an intervention trial. This manuscript serves as the methods paper for the project to publish the methodology and protocol. The analysis plan is pre-specified as outlined in this methods manuscript. Statistical power and sample size calculations were conducted which informs the enrollment targets. No consort diagram is provided in this article since it is describing the methods of the study rather than any data or analysis. Subjects are blinded to many of the results of the experimental manipulations; the exception of results that will be shared with the subject are shared after the final observations are made for the study visit. The measures utilized in this protocol are validated measures. Data from this project will be shared with the FITBIR repository. The authors agree to provide the full content of the manuscript on request by contacting the corresponding author listed below."
+  },
+  {
+    "PMCID": "PMC10698787",
+    "Year": "December 2023",
+    "Section": "No new data was generated for this review. Thus, no human or animal subjects were used. A complete list of reviewed and referenced works can be found in our Works Cited section below and we completely described our methodology for finding sources and completing our literature search in ourmethodssection. Furthermore, the authors agree to be available for contact by parties interested in discussing this review and its methodology further."
+  },
+  {
+    "PMCID": "PMC11071087",
+    "Year": "January 2024",
+    "Section": "This study was approved by the IRB at the University of Texas Health Science Center School of Medicine (HSC-MS-12-0637). Although our analysis plan was not formally pre-registered, the team members with primary responsibility for the analysis (A.M.G. and J.P.J.S.) certify that the analysis plan was pre-specified. A sample size of 84 TBI subjects was planned based on the availability of subjects with plasma and data available in our biorepository. The actual sample size was 84 subjects in the TBI group (with 32 subjects having a late time point available) with the inclusion of 35 control subjects based on availability and age and sex matching. All patients with TBI admitted to Memorial Hermann Hospital were approached for enrollment into our biobank. Among 311 TBI subjects with biosamples available, 84 subjects had mTBI as well as outcomes data, and were included in this study. Handling of biosamples and analysis was performed by team members blinded to relevant characteristics of the participants, and biomarkers were labeled using de-identified codes with a linking list required to obtained participant identifying information. Samples were acquired between December 2017 and August 2019. Samples were collected within 24\u2009h from TBI and also at 3 months after TBI. Samples were collected at Memorial Hermann Hospital. Blood samples were collected in EDTA-containing tubes and were centrifuged to generate plasma. Samples were stored at -80\u00b0C prior to analysis. Aliquots were prepared prior to freezing to minimize freeze\u2013thaw cycles. All mTBI samples were analyzed within the same batch. All analysis was performed by Metabolon, Inc (Morrisville, NC), and all equipment and reagents used were owned by Metabolon. The key inclusion criteria for mild TBI as well as outcome metrics (GOSE) are established standards in the field. Statistical tests used were based on the assumptions of non-normal distribution of the data. Multiple comparisons were addressed using an FDR correction, with significance after FDR correction set conservatively at 0.05. External validation studies are ongoing. De-identified data from this study are not currently available in a public archive. De-identified data from this study will be made available (as allowed by our IRB) to qualified investigators by e-mailingude.cmt.htu@nodsug.m.noraaorude.cmt.htu@hsad.p. Analytical code used to conduct the analyses presented in this study are not available in a public repository. They are available by emailingude.cmt.htu@nodsug.m.noraaorude.cmt.htu@jarravas.p.eduj. Future use of these biosamples is not allowed under our current IRB. The authors agree to publish the manuscript using the Mary Ann Liebert Inc. \u201cOpen Access\u201d option with the appropriate license."
+  },
+  {
+    "PMCID": "PMC11071089",
+    "Year": "January 2024",
+    "Section": "The current study was not pre-registered but was funded through two R01 awards from the National Institute of Neurological Disorders and Stroke. Portions of the abstract were previously published in Abstracts from The 40th Annual Symposium of the National Neurotrauma Society held between June 25 and 28, 2023 in Austin, Texas, with the abstract being entitled \u201cSex and age-related differences in child and parental reporting of persistent post-concussive symptoms\u201d (doi: 10.1089/neu.2023.29130.abstracts). A total sample size of 291 patients with pmTBI and 224 HC were consecutively recruited from local emergency rooms and seen at SA, EC, and LC or equivalent time points. Study attrition occurred for 53 pmTBI and 19 HC for the EC visit. Study attrition occurred for an additional 29 pmTBI and 15 HC for the LC visit. A total of 48 participants were not yet eligible for their LC visit at the time of manuscript preparation during this ongoing study. Inclusion criteria for pmTBI was based on published criteria (American Congress of Rehabilitation Medicine [ACRM] and Zurich) and was independently verified by at least two clinicians prior to study enrollment. Participants were provided with a copy of their radiological findings, but were blinded to the results of their clinical assessments. Data were analyzed separately for HC and pmTBI using SPSS version 20.0 using information criterion tested distributions. Effect sizes are reported to enhance transparency, with primary results corrected for multiple comparisons. All surveys and questionnaires used in the current study are publicly available. The current study replicated previous findings in a subset of the cohort while also examining the effect of host factors (biological sex and age at injury) on key psychometric properties of the post-concussive symptom reporting. All data from this study will be publicly available in the Federal Interagency Traumatic Brain Injury Research (FITBIR) database upon completion of the study, or can be obtained sooner by requesting it from the study principle investigator. The results of this publication will be freely available through the journal Web site as part of funding requirements."
+  },
+  {
+    "PMCID": "PMC10698859",
+    "Year": "December 2023",
+    "Section": "The study was registered after the study began. The study is registered at BioRxiv (https://www.biorxiv.org/content/10.1101/2022.08.01.502398v).1The analysis plan was not formally pre-registered, but the team member with primary responsibility for the analysis certifies that the analysis plan was pre-specified.2A sample size of eight subjects per group was planned based on an expected effect size calculated to yield 88\u201396% power to detect significant behavioral recovery using repeated measures ANOVA with apvalue of <0.05.3Sixty animals were considered for inclusion; 10 animals per group (4 groups) for SCI, behavior, and histological analysis; 32 animals received each treatment; 10 animals died from post-operational complications; and 11 animals had incomplete assessments and were excluded from the study.4Subjects were randomly assigned to groups using a random number generator.5Investigators who administered the therapeutic intervention were blinded to group assignment by use of an identically appearing placebo treatment. Investigators who conducted the outcome assessments were blinded to group assignment by restricting contact with investigators who administered the therapeutic intervention.6Timing of administration relative to injury was 12 WPI. Purity of pharmacological reagents was 99% based on certificate of analysis. Controls used included na\u00efve, uninjured animals and vehicle-only injured animals. Specificity and anatomical accuracy of lesions used for experimental manipulations were verified using fluorescent Nissl.7All the materials used for the therapeutic intervention came from a single batch prepared on May 4, 2020 at Case Western Reserve University School of Medicine's Neuroscience Department.8The experimental injury model is an established standard in the field. The primary outcome measure is an established standard in the field. Validation is included (https://doi.org/10.3389/fneur.2014.00116;https://doi.org/10.1016/j.jneumeth.2014.01.001).9The statistical tests used were based on the assumptions of normal distributions and the sample sizes reflect the number of independent measurements. Non-independent measurements have been addressed using two-way, repeated measures ANOVA.10Correction for multiple comparisons was performed using Bonferroni correction.11Planned/ongoing external validation studies have been pre-registered at BioRxiv.12There is no analytical code associated with this study.13All materials used to conduct the study are available to qualified investigators via direct request from the corresponding author, and purchase from the GoldBio vendor.14The authors agree to publish the manuscript using the Mary Ann Liebert Inc. \u201cOpen Access\u201d option under the appropriate license.15"
+  },
+  {
+    "PMCID": "PMC10458363",
+    "Year": "August 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10653072",
+    "Year": "November 2023",
+    "Section": "The analysis plan was not formally pre-registered, but the team member with primary responsibility for the analysis certifies that the analysis plan was pre-specified.1,2A sample size of eight subjects per group was planned based on ANOVA-based power analysis with the following parameters: \u03b1\u2009=\u20090.05, 1 \u2212 \u03b2\u2009=\u20090.8, and SD 20% of mean for experimental groups.3Primary outcomes for sample size determination were State III mitochondrial bioenergetics.3Forty-eight rats were subjected to experimental injury and randomly assigned to groups using a random number generator.4,5Eight rats were assigned to each treatment group and complete data were obtained for six to eight/group as some assays resulted in technical issues.4Investigator blinding was not fully possible because of the nature of the therapeutic intervention, but blinding was performed based on dose-response of the therapeutic.6\n\nTherapeutic administration occurred 15\u2009\u00b1\u20092\u2009min after injury and then daily. Dose-response relationship was performed using two doses, with both doses demonstrating efficacy in targeting outcome measures.7The prodrug was received in a single batch from the company and fresh drug formulations were prepared weekly. The therapeutic was kept sealed, temperature controlled, and away from direct sunlight to ensure consistent activity.8The normal distributions of primary respiration and blot intensity outcome data were verified using Shapiro-Wilk tests, and Brown-Forsythe and Bartlett's tests were performed to ensure homogeneity of variance.9Correction for multiple comparisons was performed with Sidak's and Dunnett's post hoc tests.10No replication or external validation studies have been performed or are planned/ongoing at this time to our knowledge.11Data from this study are not available in a public archive. Data from this study will be made available (as allowable according to institutional regulatory standards) by e-mailing a corresponding author.12The prodrug used to conduct the study is not publicly available.13The authors agree or have agreed to publish the article using the Mary Ann Liebert, Inc. \u201cOpen Access\u201d option under appropriate license.15Portions of theMethodssection found in this article were previously uploaded to a pre-print server; contact a corresponding author for the server access information."
+  },
+  {
+    "PMCID": "PMC10541942",
+    "Year": "October 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10541943",
+    "Year": "October 2023",
+    "Section": "For imaging studies, the total sample size was 18 (n=\u20098 sham;n=\u200910 rmTBI). For IHC experiments, the total sample size was 34 (n=\u200915 sham;n=\u200919 rmTBI; two batches combining injured and sham in each batch, \u223c12 months apart); for NanoString experiments, the total sample size was 12 (n=\u20095 Sham,n=\u20098 rmTBI). Studies were designed to be blinded, such that the individuals providing the mice, those performing the injuries and imaging, and the data analyst were blinded to the identities of the mice; however, imaging modules revealed inflammation, allowing the possibility that the experimenter and data analyst distinguish subjects from both groups. Data were submitted in a BioRxiv preprint."
+  },
+  {
+    "PMCID": "PMC10698776",
+    "Year": "December 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10460697",
+    "Year": "August 2023",
+    "Section": "This review does not report primary data."
+  },
+  {
+    "PMCID": "PMC10458380",
+    "Year": "August 2023",
+    "Section": "The CENTER-TBI study was registered withClinicalTrials.gov(NCT02210221). The analytic plan for the current study was approved by the CENTER-TBI Management Committee and registered after data collection but before data analysis at:https://www.center-tbi.eu/data/approved-proposals. The total number of CENTER-TBI Core study participants was 4509. Out of 2864 participants considered eligible for this study (age 16+ years and baseline Glasgow Coma Score 13-15),n=\u20092376 had registered 6-month Glasgow Outcome Scale Extended (GOSE) andn=\u20091605 completed 6-month Rivermead Post-concussion Symptoms Questionnaire (RPQ). By the CENTER-TBI study design, 2-3\u2013week symptoms were assessed in a subset of participants. The total number of predictor parameters considered for the development of prognostic models was 43, which was considered adequate for the effective sample size (n=\u20092376 for ordinal GOSE, subsetn=\u2009640;n=\u20091605 for RPQ total score, subsetn=\u2009476). Trained reviewers of CT scans were blinded to clinical information except for sex, age, and care path stratum. Qualified laboratory technicians who analyzed biomarker assays were blinded to clinical information. Outcome assessments were administered by local staff and responses were subsequently entered by them on an electronic case report form. Local investigators were not blinded to acute clinical information; however, the GOSE and RPQ were both scored centrally. Outcome instruments and validated translations used in the study are available at:https://www.center-tbi.eu/project/validated-translations-outcome-instruments. The handling of missing data and analytical decisions are described in the text. The cross-validation of the models was performed in different European regions with a leave-one-out approach, and external validation was not performed. Model equations necessary for external validation are reported in the supplementary material. De-identified CENTER-TBI data, including the subset used for this study, will be available to researchers who provide a methodologically sound study proposal for review (submitted at:https://www.center-tbi.eu/data) and approval by the Management Committee. A data use agreement is required, which must comply with current regulatory requirements. This paper will be published under a Creative Commons Open Access license, and upon publication will be freely available athttps://www.liebertpub.com/loi/neu."
+  },
+  {
+    "PMCID": "PMC10541940",
+    "Year": "October 2023",
+    "Section": "This review was not pre-registered. This review was designed as a secondary, content analysis of clinical studies that were identified in a large systematic review34that was conducted as part of the Centers for Disease Control and Prevention's effort to develop the first clinical management guideline in the United States for pediatric mTBI, which was published as the \u201cCenters for Disease Control and Prevention Guideline on the Diagnosis and Management of Mild Traumatic Brain Injury Among Children.\u201d33The coding sheet for this content analysis was developed by the authors and is provided in the supplemental materials that accompany this manuscript. Two co-authors independently coded every article and discrepancies were resolved by discussion. The results of this content analysis (i.e., the study coding results) are presented in theTables 1and\u200band22andSupplementary Tables S1andS2. The specific quotes from each manuscript that were coded are also identified and provided in the supplementary materials (i.e., actual quote is reproduced, and the section and pages from the source article are identified)."
+  },
+  {
+    "PMCID": "PMC10722895",
+    "Year": "December 2023",
+    "Section": "This observational study was registered onClinicialtrials.gov(NCT02731027). The analysis plan was not pre-registered. Key inclusion criteria and outcome measures are established standards in the field (time from injury, AIS grade, neurological level of injury). A sample size of 100 participants was assumed based on the average number of patients admitted to study sites and using a simplified power calculation for estimating Spearman correlations between AIS grade and a given biomarker level, a sample of 100 would have yielded 80% power to detect a correlation of 0.28 or greater (2-tailed alpha\u2009=\u20090.05, with no adjustment for multiple testing.) There were 1117 individuals assessed for eligibility. Of these, 33 declined to enroll, 47 were excluded due to medical reasons, and 998 did not meet inclusion/exclusion criteria. There were 42 participants who were enrolled, but one was withdrawn due to lesion level criteria ineligibility. Of the remaining 41, the following number completed these study visits with RNA-Seq samples that passed quality controls: V1 (N\u2009=\u200938, V2 (N\u2009=\u200914), V3 (N\u2009=\u200914), V4 (N\u2009=\u20098). In total, 12 participants were selected for this longitudinal analysis because they had sequential non-missing biological samples for study visits 1-3. Participants were not told and were unable to guess results of the fluid biomarkers measurements. Sample handling and quality control decisions were performed by personnel blinded to participant characteristics. De-identified participant IDs were used for all analyses. Equipment and analytical resources were from commercial suppliers described in methods. There were no analytic codes generated; all statistical analyses were performed in Prism GraphPad and Partek Genomics Flow, using algorithms and methods pre-specified by the commercial software. Biological samples used in this study were obtained by the investigators and are being used for additional analyses; limited quantities of some samples remain. We are not conducting replication studies. De-identified RNA-Seq data from this study are available in the GEO repository, accession GSE226238.\n\nFor single and multiplex ELISAs, samples were assayed in duplicate, and performed with standards according to manufactures' protocols. For singleplex ELISAs, avg. R2values and %CVs were: CRP: R2=\u20090.999, %CV\u2009=\u20096.5; HMGB1: (0-10\u2009ng/ml), R2=\u20090.998, %CV\u2009=\u20096.6. For multiplex ELISAs, the avg. lower limits of quantification (LLOQ, pg/ml) were: CTACK (0.948), Eotaxin (0.126), FGF basic (3.518), G-CSF (7.171), GROa (13.207), HGF (9.151), IFN-g (16.912), IL-13 (0.359), IL-16 (1.525), IL-18 (0.716), IL-1b (0.25), IL-1ra (4.211), IL-2Ra (1.358), IL-4 (0.145), IL-6 (0.326), IL-8 (0.535), IL-9 (2.311), IP-10 (2.516), M-CSF (0.751), MCP-1(0.473), MIF (3.477), MIG (4.794), MIP-1a (0.067), MIP-1b (0.668), PDGF-bb (6.515), RANTES (2.065), SCF (1.736), SCGF-b (76.926), SDF-1a (5.245), TNF-a (2.485), TNF-b (0.714), TRAIL (0.576).\n\nThe inter-assay %CVs for samples described here were: CTACK (5.5%), Eotaxin (5.7%), FGF basic (6.0%), G-CSF (5.7%), GROa (4.4%), HGF (4.5%), IFN-g (7.1%), IL-13 (6.1%), IL-16 (5.1%), IL-18 (5.1%), IL-1b (5.7%), IL-1ra (8.0%), IL-2Ra (5.5%), IL-4 (6.1%), IL-6 (4.8%), IL-8 (7.1%), IL-9 (6.1%), IP-10 (6.2%), M-CSF (5.3%), MCP-1 (5.8%), MIF (5.0%), MIG (6.1%), MIP-1a (5.8%), MIP-1b (6.4%), PDGF-bb (5.5%), RANTES (5.4%), SCF (5.1%), SCGF-b (5.0%), SDF-1a (5.0%), TNF-a (4.2%), TNF-b (8.1%), TRAIL (5.6%)."
+  },
+  {
+    "PMCID": "PMC10494902",
+    "Year": "August 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10458381",
+    "Year": "August 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10259613",
+    "Year": "June 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10294565",
+    "Year": "July 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10458378",
+    "Year": "August 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10460688",
+    "Year": "September 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10460965",
+    "Year": "August 2023",
+    "Section": "This study was not pre-registered. Statistical power and sample size calculations were based on previous studies withSarm1KO mice and an expected effect size at Day 7 after IA-TBI of 0.6 with regard to protection of intact axons. A sample size of nine subjects per group was planned and calculated to yield >90 % power to detect at least 50% protection in intact axons. Statistical power for the major secondary outcome measure of pathological profiles was >80%. Subjects were randomly assigned to groups and due to the scale of the project mice and tissues were processed in multiple batches. Experimental manipulations were performed with subjects in the fed state between 1 and 5pm. Whenever possible care was taken to include multiple groups per batch. Analyses of experimental materials were performed by investigators blinded to relevant characteristics of the subjects. Wt and transgenic mice are available from Jackson Labs. While detailed in the method sections, further information on equipment and analytical reagents used to perform experimental manipulations are available upon request. The statistical tests used were based on the assumption of normality, and heteroskedeity in the case of CD68 quantifications was addressed by log-transformation of the data. The sample sizes and degrees of freedom reflect the number of independent measurements (i.e., mouse) while in the case of proximal-distal ON comparisons, non-independence of measurements has been addressed using mixed effect models as detailed in themethodssection. Data are available upon request. A limited number of histological samples from each of the experimental groups are available for future analyses on request. The authors have agreed to publish the manuscript using the Mary Ann Liebert Inc. \u201cOpen Access\u201d option under appropriate license."
+  },
+  {
+    "PMCID": "PMC10294566",
+    "Year": "July 2023",
+    "Section": "A sample size of 14 Wistar rats per group (n=\u200942) was used for the study, determined for significant between-factors differences on a three-group, two time point repeated measures ANOVA and considering a conservative 0.50 Cohen'sdeffect size based on our prior pilot data, 0.80 power, 0.05 alpha error rate. The sample size calculation was performed with G*Power v3.1.9.7 software.58We excluded two rats for technical reasons, so we added two more rats because of attrition. Rats were randomly assigned to groups using a random number generator. All 42 rats received the allocated treatment. Because of a scheduling conflict, we could not perform the MRI studies for one rat. Another rat died on day 5 from peritonitis unrelated to the procedure, so we could not perform the MRI study on day 7. Therefore, complete data were obtained for 40 rats. Investigators who performed behavioral outcome assessments and MRI data analysis were blinded to treatment groups. The nVNS therapy was applied 30\u2009min post-injury. A dose-response relationship was performed using two doses (2-min nVNS and 2\u2009\u00d7\u20092-min nVNS)."
+  },
+  {
+    "PMCID": "PMC10162122",
+    "Year": "May 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10440241",
+    "Year": "2023/08",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10398748",
+    "Year": "June 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10294564",
+    "Year": "July 2023",
+    "Section": "This cross-sectional study included college-aged women with frequent (4+) sexual choking in the past month and choking-na\u00efve control women. A sample size of 20 per group was planned to yield 80% power to detect a statistically significant group effect in ALFF/ReHo with ap-value <0.05. Ninety-two potential participants were screened, imaging data were obtained from 55, and imaging data were successfully analyzed in 41. Participants were blinded regarding any study information, including the final outcome, and will be referred to the publication of the article when it becomes available. Imaging acquisition and analyses were performed by team members blinded to relevant characteristics of the participants and group assignment. All equipment and software used to perform imaging and preprocessing are widely available from commercial sources. De-identified data from this study and analytic code are available upon reasonable request to the corresponding author (KK)."
+  },
+  {
+    "PMCID": "PMC10259607",
+    "Year": "June 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10294562",
+    "Year": "July 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10259602",
+    "Year": "June 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10259608",
+    "Year": "June 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10081725",
+    "Year": "March 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10162120",
+    "Year": "May 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10458377",
+    "Year": "August 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10061336",
+    "Year": "April 2023",
+    "Section": "This study and its analytic plan were not formally pre-registered in a repository. Due to the exploratory nature of the study,a prioripower analysis was not performed. The number of participants enrolled, results of image quality assessment, and number of participants with clinical outcome data is presented in the article. Participants were told the results of their imaging, when applicable, after completion of clinical outcome assessment. Details of imaging data acquisition are presented in the article. Imaging data for the analytic cohort was acquired on a single scanner. Details of pre-processing and quality control evaluation are provided in the article. The key inclusion criteria for enrollment in the study and the primary clinical outcome measures are established standards in the field. Statistical tests did not assume a normal distribution. Effects sizes are not reported in the article given the non-Gaussian distribution of the independent variable. We addressed the issue of multiple comparisons using techniques for dimensionality reduction (i.e., Mahalanobis distance) and for the primary outcome, Bonferroni correction. Efforts at external validation in a large cohort are ongoing. The primary data for this study will be available upon request to the corresponding author. The analytic code is available at GitHub."
+  },
+  {
+    "PMCID": "PMC10024052",
+    "Year": "November 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10259614",
+    "Year": "June 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10259615",
+    "Year": "June 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10312200",
+    "Year": "July 2023",
+    "Section": "The study was not formally registered because it was completed in 2016 before the development of independent repositories. The analysis plan was not formally pre-registered. The planned sample size was 180, and we used 160 cases in power analyses to account for likely attrition from the targeted sample. We used regression to estimate power using ordinary least squares instead of maximum likelihood.\n\nIn considering such models, effect sizes are determined by the amount of variance attributable to a specific predictor relative to the error variance. Cohen's f2varied from about .05 to about .15. We estimated a model with 10 predictors and considered power for the test of the overall model and for the effect of a single variable within the model using an alpha of .05 and a sample of 160. Power for testing the overall model exceeded .80 when the R2was at least .10 (f2=\u2009.111) and the power to detect a single variable as a significant contributor to prediction was .80 even if the R2change was only .05 and the overall R2was .05. The study was amply powered.\n\nFigure 1contains the consort diagram. The key inclusion criteria and behavioral outcomes are Common Data Elements for pediatric TBI. All salivary assessments were handled using standard protocols, and analyses were completed by Salimetrics LLC as described in Methods. Persons performing the analyses and patients were blinded to results of biomarker measurements. Outliers for salivary data were defined as >2.5 SD above the mean and were winsorized. Correction for multiple comparisons used the Bonferroni or Benjamini-Hochberg procedure. No replication or external validation studies have been performed or are planned at this time to our knowledge.\n\nDe-identified data and analytic code are not available in a public archive but will be made available according to institutional IRB standards by emailing the corresponding author as of 12-31-2023. No future use of biofluid samples is possible because insufficient quantities remain."
+  },
+  {
+    "PMCID": "PMC10068676",
+    "Year": "April 2023",
+    "Section": "The protocol for use of animals was approved by Institutional Animal Care and Use Committee (IACUC) of Henry Ford Health. We applied the rigorous experimental design to this pre-clinical study as described in our previous TBI studies.13,14TBI animals were randomized to receive different treatments with vehicle as a treatment control. The investigators were blinded to perform functional tests and collect histological data in this study."
+  },
+  {
+    "PMCID": "PMC10150731",
+    "Year": "May 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9902050",
+    "Year": "February 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10259605",
+    "Year": "June 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10061338",
+    "Year": "April 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9986007",
+    "Year": "March 2023",
+    "Section": "This study was not formally registered because study design, variables, and routine clinical care treatment conditions were instead tracked by a Standard Operating Procedures document prepared by all involved institutions before the study began (available on request). The analysis plan was not formally pre-registered, but the team member with primary responsibility for the analysis (lead author) certifies that the analysis plan was pre-specified. A sample size of 200 subjects was planned based on availability of patients with neurotrauma presenting to the study setting during the study timeline. Screening was conducted with 864 potential participants, 216 participated, and adequate data were obtained from 216. Participants were blinded to results of the other assessments throughout the study, even after primary clinical observations were complete. Data collection was performed by investigators blinded to relevant participant characteristics such as predefined group membership (e.g., case vs. control, injury severity category, etc.).\n\nData analyses were performed by investigators who were aware of relevant characteristics of the participants. Data were acquired between January 27, 2020 and June 28, 2020, excluding a cessation of research activities from March 22, 2020 to May 31, 2020 during Rwanda's first national lockdown. Data were analyzed using Stata (StataCorp, College Station, TX, USA). The time required for data acquisition was 5 months. The time required for pre-processing and analysis was 6 months. All equipment and software used to perform acquisition and analysis are widely available from StataCorp. The key inclusion criteria (e.g., primary diagnosis or prognostic factor) are established standards in the field. Non-parametric statistical tests were used to account for potential non-normality of data. No replication or external validation studies have been performed or are planned/ongoing at this time to our knowledge. De-identified data from this study are available on request. Analytic code from this study are available on request. The authors agree to provide the full content of the manuscript on request by contacting the corresponding author."
+  },
+  {
+    "PMCID": "PMC9986031",
+    "Year": "March 2023",
+    "Section": "The sample size for each group was 6 mice per group, based on power analysis of previous infarct volume data which indicated >80% power to detect overall significant effects of ANOVAs as primary analyses, with alpha <0.05 for post-hoc difference detections. A total of 272 mice were subjected to experimental TBI or sham injury, 19 died, and the rest were tested to completion of studies, with complete data sets obtained for all remaining mice. Investigators were blinded to experimental conditions when performing IHC analyses and infarct volume measurements. IHC antibodies came from the same laboratories over the course of the stains and pilot studies were conducted to validate antibody specificity and accuracy. Normal distribution of primary histological data was verified using a Kolmogorov-Smirnoff test. Data from this study are available upon request."
+  },
+  {
+    "PMCID": "PMC10294567",
+    "Year": "July 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10061334",
+    "Year": "April 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9986024",
+    "Year": "March 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10325813",
+    "Year": "April 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10294563",
+    "Year": "July 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10040418",
+    "Year": "March 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10266555",
+    "Year": "June 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10402701",
+    "Year": "June 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9986028",
+    "Year": "March 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10061332",
+    "Year": "April 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10024072",
+    "Year": "January 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10150724",
+    "Year": "May 2023",
+    "Section": "The study design and analysis plan were pre-registered with the Open Science Framework Preregister (https://osf.io/3edwq) after the beginning of data collection but before data analysis. A power analysis was performed to justify the sample sizea priori. With a power of 0.80 and an \u03b1 of 0.05, 30 animals were necessary to detect the anticipated correlation ofR=\u20090.43 between MRI markers and functional outcome based on previous data with a single injury severity.12This study used a total of 42 Sprague\u2013Dawley (Charles River Laboratories, Wilmington, MA) adult rats ranging in age from 8 to 10 weeks and weighing 250\u2013300\u2009g, of which 10 were sham and 32 had cervical spinal cord contusion injuries. An equal number of males and females were included in each group. The final sample size was 39 (injured group\u2009=\u200930, sham group\u2009=\u20099). One sham rat (female) was excluded because of a surgical error and was not replaced. One injured rat died before completing all time points because of a complication from anesthesia, and a surgical error occurred in one injured rat. Both were replaced with rats of the same injury severity and sex. Behavioral acquisition and analyses were performed by team members blinded to the injury severity of the rats, and imaging acquisition and analyses were automated to limit bias, because meaningful blinding to injury severity was not possible. All equipment and software used to perform imaging, pre-processing and analysis are widely available from commercial sources. All MRI sequences are available athttps://osf.io/ngu4a/.Customprocessing routines and data are publicly available athttps://osf.io/mesz4/."
+  },
+  {
+    "PMCID": "PMC10039279",
+    "Year": "December 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10061333",
+    "Year": "April 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9902045",
+    "Year": "February 2023",
+    "Section": "The study was pre-registered atclinicaltrials.gov(NCT03087981). A total sample size of 50 subjects was planned to allow a model development set and an independent validation set of 20 participants each, yielding >90% prognostic accuracy for (primary clinical outcome) with apvalue <0.05. Eighty-nine potential participants were screened, imaging data were obtained from 89, and successfully analyzed in 50. Participants were told the results of the imaging assessments after the final clinical observations had been made. Imaging quality control decisions and analyses were performed by investigators who were aware of relevant characteristics of the participants. All equipment and software used to perform imaging and pre-processing are widely available from commercial sources. The key inclusion criteria and outcome evaluations are established standards. External validation studies are ongoing. De-identified data from this study are not available in a public archive. De-identified data from this study will be made available by emailing the corresponding author. Analytic code used to conduct the analyses are available in (GITHUB). The authors agree or have agreed to publish the manuscript using the Mary Ann Liebert Inc. \u201cOpen Access\u201d option under appropriate license."
+  },
+  {
+    "PMCID": "PMC10150729",
+    "Year": "May 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9902043",
+    "Year": "February 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9529314",
+    "Year": "October 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10162119",
+    "Year": "May 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9734016",
+    "Year": "December 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9917326",
+    "Year": "January 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10162579",
+    "Year": "January 2023",
+    "Section": "We have taken several steps to mitigate bias and ensure that results from this study are robust and reproducible. To identify TBI in Medicare administrative claims, we used the Centers for Disease Control and Prevention case definition. We adopted diagnosis codes from the Barell Injury Diagnosis Matrix to identify non-TBI trauma injuries. Nursing home stays were identified based on a validated algorithm described by Intrator et al. Chronic diseases were identified from the claims based on validated algorithms that search for specific diagnostic codes. Requiring continuous enrollment during the study period ensured that all events of interest were captured. We examined the balance of observed covariates in the weighted sample by computing standardized mean differences (the difference in means between TBI and no-TBI (non-TBI trauma and uninjured) groups divided by the overall standard deviation) on pre- and post-matched samples, following published guidelines. We further adjusted for covariates with standardized differences greater than \u00b1\u20090.03 in the regression model as a form of doubly robust estimation."
+  },
+  {
+    "PMCID": "PMC9917318",
+    "Year": "January 2023",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9689772",
+    "Year": "November 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9529313",
+    "Year": "October 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9689773",
+    "Year": "November 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9734017",
+    "Year": "December 2022",
+    "Section": "This study or analysis plan was not formally pre-registered. This was a pilot study to characterize the injury model, thus there was noa priorisample size calculation. Imaging data were labeled using codes that were not linked to subject identifying information. The entire study was conducted over a 4-month period, and all imaging data were analyzed at the same time. The time required for imaging acquisition was 40\u2009min per subject per scan. Complete imaging parameters are presented in theMethodssection. The Spearman's correlation analysis used was based on the assumptions that a pair of variables hold a monotonic relationship. Subjects with one or more missing data points were omitted from correlation and PCA analyses. Correction for non-parametric multiplet-test was performed using the method of Benjamini and colleagues.29No replication or external validation studies were performed or are planned at this time to our knowledge. Data from this study are available in a public archive athttps://osf.io/s8gnz/. All software used to perform analysis are available in Mathworks (MATLAB), Python, and Spinal Cord Toolbox, with analytical code used to conduct imaging registration and analyses present in this study available in a public repository.29"
+  },
+  {
+    "PMCID": "PMC9689770",
+    "Year": "November 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9422788",
+    "Year": "September 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9689766",
+    "Year": "November 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9529302",
+    "Year": "October 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9529318",
+    "Year": "October 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9734019",
+    "Year": "December 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9689769",
+    "Year": "November 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9529311",
+    "Year": "October 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10870816",
+    "Year": "2022/10",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9734021",
+    "Year": "December 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9225395",
+    "Year": "June 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9734018",
+    "Year": "December 2022",
+    "Section": "The cross-over study design and analysis plan were preregistered onClinicalTrials.gov(NCT02323698). Prespecified sample size wasn=\u200917, yielding statistical power of 0.70 for detection of a change in 10MWT time (f=\u20090.7, F3,12=\u20093.5;p=\u20090.4, \u03b1\u2009=\u2009.05). During enrollment, subjects were assigned to C+AIH, P+AIH, and C+SHAM intervention arms using a random number generator. The order of interventions was balanced across subjects. We consented 34 individuals, 22 lost during allocation due to relocation, change in medical status, and COVID-19 pandemic-related restrictions. Ten participants completed the study (seeSupplemental Material). In the present study, we hadn=\u20099 cross-over participants complete daily (5 consecutive days) of C+AIH, C+SHAM, and P+AIH. Although the calculated variances are larger than the planned value, the observed change in 10MWT is larger than expected. That leads to an observed effect size of 0.64 using the change of 10MWT at D19from baseline in the C+AIH group withn=\u200910, which is close to the planned effect size of 0.7. Apost hocpower calculation with multivariate T2test for the 4-period cross-over design, a sample size ofn=\u200910 would be required to have the statistical power of 80% at \u03b1\u2009=\u20090.05 when the effect sizes of change from baseline are estimated to be 0.5 (D5), 0.55 (D12), 0.65 (D19) from the current study, and the correlation between outcomes from different periods is 0.8. A minimum of a 2-week washout yielded intervention arms with baseline 10MWT medians the same across the intervention rounds (Median Test,p=\u20090.638). The distribution of baseline 10MWT also is the same across the intervention rounds (Kruskal-Wallis Test,p=\u20090.731). All primary outcomes were assessed by investigators blinded to the intervention arm assignment. All materials required to perform the assessments and interventions may be available upon request. The primary outcome measure (10-meter walk test) and secondary outcome measure (6-minute walk test) are standard in the field and have high test-retest reliability. We used the Kolmogorov-Smirnov normality test for the primary outcome measure at D19for each intervention arm: P+AIH (p=\u20090.200), C+AIH (p=\u20090.088), and C+SHAM (p=\u20090.200). Correction for multiple comparisons was performed for the outcome measures. The findings have not yet been replicated or externally validated. Data are available upon request and the manuscript is open access."
+  },
+  {
+    "PMCID": "PMC9422782",
+    "Year": "September 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9225401",
+    "Year": "June 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9529303",
+    "Year": "October 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9422790",
+    "Year": "September 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9529317",
+    "Year": "October 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9529298",
+    "Year": "October 2022",
+    "Section": "We addressed the potential for local dependency among persons in the full sample (since the dataset included repeated measures of the same individuals) by generating two random subsamples\u2014calibration and validation sub-samples\u2014in which each individual is represented once by either their first or last record.20The calibration and validation sub-samples were represented by 242 participants with either their first or last record. Twenty participants with a single record were randomly assigned for a total of 252 participants in the calibration and validation sub-sample, respectively (Fig. 2).\n\nThe calibration sub-sample was used to produce step and item anchors; these were validated with the validation sub-sample. Luppescu's method of cross-plotting person measures and item calibrations with 95% confidence intervals was used to evaluate whether there were significant deviations between the calibration and validation sub-samples.21Step and item anchors were validated by evaluating item displacement >0.50 logits.22Once validated, the step and item calibrations from the calibration sub-sample were applied as anchored values to the full sample.19"
+  },
+  {
+    "PMCID": "PMC9248343",
+    "Year": "July 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9422787",
+    "Year": "September 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC9225403",
+    "Year": "June 2022",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  }
+]

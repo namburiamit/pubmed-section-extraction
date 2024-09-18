@@ -1,0 +1,492 @@
+[
+  {
+    "PMCID": "PMC6791485",
+    "Year": "2019/11/11",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6791469",
+    "Year": "2019/11/11",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6892439",
+    "Year": "2019/12/12",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6709721",
+    "Year": "2019/09/09",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC7872005",
+    "Year": "2019/10/10",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC7058993",
+    "Year": "January 15, 2020",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6892431",
+    "Year": "2019/12/12",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6761606",
+    "Year": "2019/10/10",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6744946",
+    "Year": "2019/10/10",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6744944",
+    "Year": "2019/10/10",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6791477",
+    "Year": "2019/11/11",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6709730",
+    "Year": "2019/09/09",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6909743",
+    "Year": "2019/09/09",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6791472",
+    "Year": "2019/11/11",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6653790",
+    "Year": "2019/07/07",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC7366273",
+    "Year": "2019/09/09",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6661911",
+    "Year": "2019/08/08",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6709726",
+    "Year": "2019/09/09",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC7698852",
+    "Year": "November 15, 2020",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6727480",
+    "Year": "2019/09/09",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6709724",
+    "Year": "2019/09/09",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6661910",
+    "Year": "2019/08/08",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6709728",
+    "Year": "2019/09/09",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC7698848",
+    "Year": "November 15, 2020",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC8054520",
+    "Year": "April 15, 2021",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6653808",
+    "Year": "2019/07/07",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6727471",
+    "Year": "2019/09/09",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6487670",
+    "Year": "2019/03/03",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6909749",
+    "Year": "2019/07/07",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6661915",
+    "Year": "2019/08/08",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC7698845",
+    "Year": "November 15, 2020",
+    "Section": "Modern drug discovery often relies on PK optimization in multiple species. Earlier in a discovery program, it is common to test promising compounds in the rodent model of efficacy. Once robust efficacy is established and molecules with drug-like properties emerge, they are advanced into large animal PK studies. Composite PK analysis from multiple species enables prediction of human PK.43\n\nIt is important to recognize that not all species will behave similarly. For example, it is possible to see decent oral bioavailability in the rat and dog, yet poor oral bioavailability in the monkey.44Sometimes, the terminal half-life in the dog may be much longer than other species. When such disconnects are observed, it becomes difficult to predict which species will resemble human. A reasonable effort may be spent in understanding these inter-species differences. For example, the low oral bioavailability in the monkey may be attributed to extensive gut first pass effect,45and the long half-life in the dog may be attributed to extremely low clearance because of poor metabolic turnover.\n\nIn addition, the juvenile piglet has been utilized as a more acceptable brain injury model system for pediatric TBI studies. The ontogeny of CYP metabolism in the piglet has been largely understudied. A recent study by Millecam and associates46evaluated the ontogeny of several CYP isoforms during development and demonstrated similarities with expression in human development. This study suggests that the juvenile piglet may serve as an appropriate model for multi-species drug development depending on the specific CYP isoform involved in drug elimination.48\n\nPrediction of human PK is highly uncertain when the mechanism behind interspecies differences is not understood. No one species behaves similar to human in all aspects of drug disposition. When such uncertainty exists, the scientists should leveragein vitrohuman-based assays to ensure the new drug candidate has favorable drug-like properties\u2014such as good metabolic stability, good permeability, no drug-drug interaction liabilities\u2014before advancing them to the clinic. This emphasizes the need to test the new drug candidates in humanin vitrosystems (e.g., human liver microsomes for metabolic stability, Caco2 cells for permeability) in addition to the evaluation of interspecies differences to guide human equivalent dosing.\n\nAn opportunity for ADME scientists lies in pharmacologists working with biologists to integrate PK-PD optimization with a quantitative mindset to assess the efficacy in animal models. Translational biomarkers become critical when trying to extrapolate disease modulation in rodents to human. If a large animal species is thought to be more relevant to human disease, it is imperative to establish PK-PD relationship in that species and to provide greater confidence that the relationship will hold in human.\n\nThe PD biomarker assays in human plasma will facilitate expeditious clinical testing. An example of integrating target engagement as measured by receptor occupancy, PD biomarker and efficacy are shown inFigure 4.In vitrocellular potency in the mouse and monkey is translated toin vivoPD response in the respective species.In vivoPD response in the mouse is translated to disease modulation to establish the required PD response. Human efficacious dose is then projected that will target the desired PD response based on thein vitropotency in human and projected human PK.\n\nMany drugs form pharmacologically active metabolites. Drug discovery scientists should profile plasma obtained from animals used in efficacy studies and determine presence of metabolites. Major circulating metabolites in efficacy species should be synthesized and tested for pharmacological activity. Metabolism studies usingin vitrosystems should evaluate whether an active metabolite is formedin vitro,in the animal efficacy model, and in humans.\n\nA correlation of the active metabolite formedin vitroandin vivoin the efficacy model should be established to gauge the importance of humanin vitrosystems for formation of the putative active metabolite.In vitropotency of the metabolite and its circulating concentrations will allow understanding of its contribution to the pharmacological activity in the animal species. If the formation of this active metabolite is minor in humanin vitrosystems; there will be additional uncertainty in translating the efficacious dose between species. Prediction of human dose typically assumes that the pharmacological activity is only from the parent drug molecule without the more complex contribution from an active circulating metabolite.47,48\n\nApart from PK assessment in the efficacy species, it is equally important to ensure good PK properties leading to good systemic exposure in the species used for safety assessment. For small molecules, it is recommended to have two species (one rodent and one non-rodent) for safety assessment. Rat is the most commonly used rodent safety species. The choice of non-rodent species is based on pharmacological activity, ability to escalate exposures several fold above the \u201cefficacious exposure,\u201d appropriateness for TBI research assessment, and similarity in metabolic profile relative to human. Demonstration of robust PD activity along with multiples of systemic exposure in safety evaluation studies is highly desirable. This will ensure that the toxicological species is relevant to assess suprapharmacological activity and thus both on- and off-target effects."
+  },
+  {
+    "PMCID": "PMC6661923",
+    "Year": "2019/08/08",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6818488",
+    "Year": "2019/11/11",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC7698976",
+    "Year": "November 15, 2020",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6653807",
+    "Year": "2019/07/07",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6761588",
+    "Year": "2019/10/10",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6727476",
+    "Year": "2019/09/09",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6909727",
+    "Year": "2019/08/08",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6653801",
+    "Year": "2019/07/07",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6909751",
+    "Year": "2019/07/07",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6909747",
+    "Year": "2019/08/08",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6653792",
+    "Year": "2019/07/07",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6602099",
+    "Year": "2019/07/07",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6727466",
+    "Year": "2019/09/09",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6727469",
+    "Year": "2019/09/09",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6602107",
+    "Year": "2019/07/07",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6551988",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6648195",
+    "Year": "2019/08/08",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6555186",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC7643768",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6602106",
+    "Year": "2019/07/07",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6551989",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6551991",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6551992",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6551998",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6551984",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6648167",
+    "Year": "2019/08/08",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6599385",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC8356030",
+    "Year": "2019/07/07",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC7698994",
+    "Year": "November 15, 2020",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC10027348",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6531907",
+    "Year": "2019/05/05",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6648203",
+    "Year": "2019/08/08",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6532277",
+    "Year": "2019/05/05",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6599394",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6909772",
+    "Year": "2019/05/05",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6599384",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6531909",
+    "Year": "2019/05/05",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6531904",
+    "Year": "2019/05/05",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6531903",
+    "Year": "2019/05/05",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6551996",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6551973",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6482916",
+    "Year": "2019/05/05",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6479259",
+    "Year": "2019/04/04",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6531908",
+    "Year": "2019/05/05",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6909726",
+    "Year": "2019/04/04",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC7207062",
+    "Year": "2019/04/04",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6531906",
+    "Year": "2019/05/05",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6479248",
+    "Year": "2019/04/04",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6479254",
+    "Year": "2019/04/04",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6482915",
+    "Year": "2019/05/05",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6479250",
+    "Year": "2019/04/04",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6479246",
+    "Year": "2019/04/04",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6479251",
+    "Year": "2019/04/04",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6482904",
+    "Year": "2019/05/05",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6479249",
+    "Year": "2019/04/04",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6909756",
+    "Year": "2019/04/04",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6599383",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6978781",
+    "Year": "February 1, 2020",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6479243",
+    "Year": "2019/04/04",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC7718849",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6444934",
+    "Year": "2019/04/04",
+    "Section": "Analysis of variance andttest were used for the comparison of three or two experimental groups, respectively. Statistical analyses were performed using SPSS 23.0 (SPSS, Inc., Chicago, IL). The significance level was set atp<\u20090.05. Animals were randomized to the experimental groups, and all assessments were performed by investigators who were blinded to treatment assignments."
+  },
+  {
+    "PMCID": "PMC6599386",
+    "Year": "2019/06/06",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6484358",
+    "Year": "2019/03/03",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6444887",
+    "Year": "2019/04/04",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6482909",
+    "Year": "2019/05/05",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6482892",
+    "Year": "2019/05/05",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  },
+  {
+    "PMCID": "PMC6444913",
+    "Year": "2019/04/04",
+    "Section": "Section related to transparency, rigor, or reproducibility not found."
+  }
+]
