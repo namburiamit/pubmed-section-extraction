@@ -32,3 +32,9 @@ pip install requests beautifulsoup4 tqdm matplotlib
 
 ### Overview
 This project extracts and analyzes the Methods and Transparency sections from articles in the *Journal of Neurotrauma*. It uses web scraping to collect data from PubMed Central (PMC) for analysis of research methodologies and transparency.
+
+
+## 2. Journal of Experimental Neurology Project
+
+### Overview
+This project extracts and analyzes the Methods sections from articles in the *Experimental Neurology Journal*. It uses web scraping to collect data from PubMed Central (PMC) for analysis of research methodologies and transparency.
